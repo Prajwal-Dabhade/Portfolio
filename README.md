@@ -1,28 +1,31 @@
-👨‍💼👨‍💼 Portfolio Website - Prajwal Dabhade 👨‍💼👨‍💼
-This is my personal portfolio website showcasing my skills, education, projects, and professional experience as a Java Full Stack Developer.
+👨‍💼👨‍💼 Portfolio Website - Prajwal Dabhade 👨‍💼👨‍💼 <br>
+This is my personal portfolio website showcasing my skills, education, projects, and professional experience as a Java Full Stack Developer. <br><br>
 
-🚀 **Features** 🚀 
-▶️ Responsive Design – Works across devices (desktop, tablet, mobile).
-▶️ Education Timeline – Interactive and styled timeline to highlight academics.
-▶️ Services Section – Roles like Full Stack, Frontend, and Backend Developer.
-▶️ Projects Showcase – Includes real projects like:
-    📂 Order Processing System
-    📂 Travel & Tourism Website
-    📂 Car Rental Website
-▶️ Experience & Certifications – Internship and achievements.
-▶️ Reviews & Testimonials – Feedback from peers and clients.
-▶️ Contact Form – Simple form to reach out.
+🚀 **Features** 🚀 <br>
+▶️ Responsive Design – Works across devices (desktop, tablet, mobile).<br>
+▶️ Education Timeline – Interactive and styled timeline to highlight academics.<br>
+▶️ Services Section – Roles like Full Stack, Frontend, and Backend Developer.<br>
+▶️ Projects Showcase – Includes real projects like:<br>
+    📂 Order Processing System <br>
+    📂 Travel & Tourism Website <br>
+    📂 Car Rental Website<br>
+▶️ Experience & Certifications – Internship and achievements. <br>
+▶️ Reviews & Testimonials – Feedback from peers and clients. <br>
+▶️ Contact Form – Simple form to reach out. <br> <br>
 
-🛠️ **Tech Stack** 🛠️
-▶️ Frontend: HTML5, CSS3, JavaScript
-▶️ Styling: Custom CSS, Responsive Layout
-▶️ Libraries: Font Awesome, Typed.js
-▶️ Backend (for projects): Java, Spring Boot, PHP, MySQL
+🛠️ **Tech Stack** 🛠️ <br>
+▶️ Frontend: HTML5, CSS3, JavaScript <br>
+▶️ Styling: Custom CSS, Responsive Layout <br>
+▶️ Libraries: Font Awesome, Typed.js <br>
+▶️ Backend (for projects): Java, Spring Boot, PHP, MySQL <br><br>
 
-🧑‍💻 **Author** 🧑‍💻
+🧑‍💻 **Author** 🧑‍💻<br>
 
-Prajwal Dabhade
-▶️ GitHub: https://github.com/Prajwal-Dabhade/Portfolio
-▶️ LinkedIn: https://www.linkedin.com/in/prajwal-dabhade-pd/
+Prajwal Dabhade<br>
+▶️ GitHub: https://github.com/Prajwal-Dabhade/Portfolio <br>
+▶️ LinkedIn: https://www.linkedin.com/in/prajwal-dabhade-pd/ <br> <br>
 
 📸 **Preview** 📸
+
+
+<!-- <img src="./image/Portfolio Header.png"> -->
