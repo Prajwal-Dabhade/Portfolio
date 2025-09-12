@@ -28,4 +28,4 @@ Prajwal Dabhade<br>
 📸 **Preview** 📸
 
 
-<!-- <img src="./image/Portfolio Header.png"> -->
+<img src="./image/Portfolio Header.png">
